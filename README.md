@@ -8,3 +8,5 @@ The goal is to find out the most watched tags,frequently used comments, likes an
 
 This analysis is done using Python and some of the data exploratary libraries like matplotlib,numpy,pandas,plotly,etc.
 
+The referenced dataset is uploaded in the resources tab along with the implementation notebook.
+
